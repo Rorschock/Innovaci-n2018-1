@@ -675,7 +675,7 @@ template {
     padding-right: 0px; }
   .team__item__description {
     width: 60%;
-    background: #f1f1f2; }
+    background: #99FFE8; }
     .team__item__description__name {
       color: #92FFDE;
       font-weight: 600;
@@ -903,7 +903,7 @@ template {
         width: 50%; } }
     .footer__licencia p {
       text-align: left;
-      color: #f1f1f2;
+      color: #99FFE8;
       opacity: 0.3; }
     .footer__licencia img {
       width: 170px; }
@@ -914,10 +914,10 @@ template {
         width: 50%; } }
     .footer__copy p {
       text-align: center;
-      color: #f1f1f2;
+      color: #99FFE8;
       opacity: 0.3; }
     .footer__copy a {
-      color: #f1f1f2;
+      color: #99FFE8;
       opacity: .5; }
     .footer__copy img {
       width: 100px; }
