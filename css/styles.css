@@ -457,7 +457,7 @@ template {
     padding: 0;
     color: #53585E; }
   .top__item a {
-    color: #f1f1f2; }
+    color: #64FFC7; }
 
 .main-menu {
   width: 100%; }
@@ -608,7 +608,7 @@ template {
   top: 0;
   background: rgba(13, 13, 13, 0.3);
   z-index: 999;
-  color: #f1f1f2;
+  color: #64FFC7;
   height: 1.5em;
   padding-left: 15px;
   padding-top: 7px; }
@@ -617,7 +617,7 @@ template {
       display: none; } }
 
 .expand-submenu {
-  color: #f1f1f2; }
+  color: #64FFC7; }
 
 .main-header {
   position: relative; }
@@ -681,10 +681,10 @@ template {
       font-weight: 600;
       font-size: 1.15em; }
     .team__item__description__info {
-      color: #53585E;
+      color: #034FC4;
       font-size: .95em; }
     .team__item__description__mail {
-      color: #0D0D0D;
+      color: #A4FFA0;
       font-size: .85em;
       padding: 0;
       margin: 0; }
